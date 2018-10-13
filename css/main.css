@@ -13,6 +13,7 @@ html {
   margin: 0;
   padding: 0;
   list-style-type: none;
+  text-align: center;
 }
 
 .cards li {
@@ -62,7 +63,7 @@ html {
   padding: .5em .75em;
   background-color: #ccc;
   border-radius: 4px;
-  color:  #000;
+  color: #000;
   text-decoration: none;
 }
 
